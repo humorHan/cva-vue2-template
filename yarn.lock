@@ -927,10 +927,10 @@
   resolved "https://registry.yarnpkg.com/@csstools/convert-colors/-/convert-colors-1.4.0.tgz#ad495dc41b12e75d588c6db8b9834f08fa131eb7"
   integrity sha512-5a6wqoJV/xEdbRNKVo6I4hO3VjyDq//8q2f9I6PBAvMesJHFauXDorcNCsr9RzvsZnaWi5NYCcfyqP1QeFHFbw==
 
-"@humorhan/cva@0.0.1":
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/@humorhan/cva/-/cva-0.0.1.tgz#cca37e3fd487d73cbfd07cb92a7f76661477e035"
-  integrity sha512-3SDKUuE4bSMBiu6iLQe3C50UQeVh4AzxMlLXIP55KWCWeh7e7CUbO32jIW9p1wWM7KrWkZ3Pt63zfDx4aPlS7Q==
+"@humorhan/cva@^0.0.2":
+  version "0.0.2"
+  resolved "https://registry.yarnpkg.com/@humorhan/cva/-/cva-0.0.2.tgz#279ebc37c48f5e38a9853eaa663e1a3edafeda50"
+  integrity sha512-ghuIqDJ0oI+sZzc5IyDLmnMOZP5qD05obPgcHroJeIqd6aIjK9Y1OGaSK+12DITDi76d36Ea+IEqVymeFf5D7Q==
   dependencies:
     "@babel/core" "^7.15.0"
     "@babel/plugin-proposal-export-default-from" "^7.14.5"
