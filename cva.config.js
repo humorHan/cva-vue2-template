@@ -45,7 +45,7 @@ module.exports = {
    * 如下配置参考 https://webpack.docschina.org/configuration/
    */
   entry: {
-    index: 'src/index.js'
+    index: './src/index.js'
   },
   devServer: {
     port: 8081,
